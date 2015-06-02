@@ -25,4 +25,4 @@ System.out.println("O resultado da soma e:"+soma);
 System.out.println("O resultado da multiplicacao e:"+multiplicacao);
 System.out.println("O resultado da media e:"+media);
 System.out.println("O resultado da divisao e:"+divisao);
-
+}}
